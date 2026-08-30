@@ -10,7 +10,6 @@ Well,in twrp,wipe system,data,cache,dalvik
 That's it! now you flashed the rom :3
 
 Made with:Classykitchen GUI Tool
-Also,if you want support for other devices,feel free to tell me what android version and what phone in the issues tab! (I DO NOT ACCEPT PHONES NEWER THAN S7,oh yeah i only have a j5,s23+ and a10 so the ones for other samsungs are mystery ones so i cant tell what issues are there or not)
 
 Tho warning
 
